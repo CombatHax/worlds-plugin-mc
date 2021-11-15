@@ -1,0 +1,6 @@
+name: Worlds
+version: '${project.version}'
+main: me.combathax.worlds.Worlds
+api-version: 1.17
+authors: [ CombatHax ]
+

@@ -1,0 +1,6 @@
+name: Worlds
+version: '1.0'
+main: me.combathax.worlds.Worlds
+api-version: 1.17
+authors: [ CombatHax ]
+
